@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cerafinn/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "prettier": "^2.2.1"
   }
 }
