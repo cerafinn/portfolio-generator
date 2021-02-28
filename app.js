@@ -1,7 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs')
 const generatePage = require('./src/page-template');
-const { throws } = require('assert');
 
 // fs.writeFile('index.html', pageHTML, err => {
 //   if (err) throw err;
